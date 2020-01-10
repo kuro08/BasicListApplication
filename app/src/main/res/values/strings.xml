@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyListApplication</string>
+    <string name="list_name">Nama Item</string>
+    <string name="list_desc">Informasi</string>
+    <string name="you_get_it">You Get It</string>
+    <string name="deskripsi">Informasi</string>
+    <string name="about">about</string>
+    <string name="made">Made by</string>
+    <string name="about_name">Kuro08</string>
+    <string name="about_email">github.com/kuro08</string>
+    <string name="koordinat">Koordinat</string>
+    <string name="ibukota_terbesar">Kota Terbesar</string>
+    <string name="total_penduduk">Total Penduduk</string>
+    <string name="data">Data</string>
+</resources>
